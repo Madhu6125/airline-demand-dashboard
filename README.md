@@ -31,5 +31,5 @@ This Streamlit web app fetches **real-time airline flight data** using the **Avi
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/airline-demand-dashboard.git
+git clone https://github.com/Madhu6125/airline-demand-dashboard.git
 cd airline-demand-dashboard
